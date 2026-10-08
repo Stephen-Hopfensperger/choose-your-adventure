@@ -1,9 +1,8 @@
-﻿# scene2A
+﻿# Wet Footprints
 
-Text
+The docking chamber drained, and Alex stepped into the footprints crossed the floor toward a glass door. Behind it, a woman raised her hand. A speaker crackled overhead. “Welcome to Pelican. I am NORA. Please report to the control room.” Morgan glanced between the woman and the speaker. “I think she would rather we started here.”
 
--  [PathA](./scene3A.md)
-
--  [PathB](./scene3B.md)
-
--  [PathC](./scene3C.md)
+ ## What do you do? 
+ 
+ - [Help the woman](./scene3A.md) 
+ - [Follow NORA to the control room](./scene3B.md)
