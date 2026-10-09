@@ -7,10 +7,12 @@ Glowing plants surrounded a cracked dome, their roots wrapped around its support
 
 > “There it is...” Morgan whispered.
 
--  [ENTER THE DOCKING BAY.](./scene2A.md)
+## What do you do? 
 
--  [USE THE MAINTINENCE HATCH.](./scene2B.md)
+-  [DOCKING BAY.](./scene2A.md)
 
--  [INSPECT THE COMMUNICATIONS MAST.](./scene2C.md)
+-  [MAINTINENCE HATCH.](./scene2B.md)
+
+-  [COMMUNICATIONS MAST.](./scene2C.md)
 
 
