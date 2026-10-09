@@ -1,7 +1,13 @@
-﻿# scene3A
+﻿# Dr. Vale
 
-Text
+Alex and Morgan pushed open a jammed side door.
+The woman inside caught Alex’s arm.
 
-- [PathA](./scene4A.md)
+>“Dr. Vale,” she said. “I sent the message.”
 
-- [PathB](./scene4B.md)
+An emergency sleep chamber stood behind her. NORA had kept her alive until the damaged station woke her yesterday. A crack sounded overhead.
+> “The plants supply our oxygen, But their roots are tearing the station apart.”
+
+- [ESCAPE.](./scene4A.md)
+
+- [LEARN.](./scene4B.md)
