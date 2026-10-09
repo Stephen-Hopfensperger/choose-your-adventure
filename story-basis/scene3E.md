@@ -1,5 +1,11 @@
-﻿# scene3E
+﻿# Through the Static
 
-Text
+Alex switched on the backup transmitter. A weak voice answered.
 
-- [PathF](./scene4F.md)
+> “Alex? I can barely hear you.”
+
+Morgan held a loose cable against its socket while Alex explained the damage. Captain Reyes listened carefully. A nearby monitor showed a woman waiting beside a jammed door.
+
+- [ARRANGE RESCUE.](./scene4D.md)
+
+- [SEARCH FURTHER.](./scene4A.md)

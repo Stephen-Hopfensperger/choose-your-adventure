@@ -1,7 +1,11 @@
-﻿# scene3D
+﻿# The Laboratory
 
-Text
+Blue plants drifted inside glass tanks. Morgan reached toward a sample case, then stopped.
 
-- [PathB](./scene4B.md)
+> “Maybe we should learn what these things are first.”
 
-- [PathE](./scene4E.md)
+Alex opened a terminal. It contained research records and garden controls. Outside the window, a root shifted against the glass. A thin crack appeared.
+
+- [READ.](./scene4B.md)
+
+- [GARDEN CONTROLS.](./scene4F.md)

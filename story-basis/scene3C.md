@@ -1,7 +1,11 @@
-﻿# scene3C
+﻿# Pip
 
-Text
+Morgan held the robot steady while Alex straightened its wheel. The name PIP was printed across its casing. Pip rolled forward, backward, then in a pleased circle.
 
-- [PathF](./scene4F.md)
+> “My rescue career can resume.”
 
-- [PathG](./scene4G.md)
+It projected a map onto the wall. A pump room flashed red. A research archive stood farther down the corridor.
+
+- [FOLLOW IT.](./scene4E.md)
+
+- [ARCHIVE.](./scene4B.md)

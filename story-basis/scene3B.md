@@ -1,9 +1,15 @@
-﻿# scene3B
+﻿# NORA
 
-Text
+Red warnings covered the control room screens.
 
-- [PathC](./scene4C.md)
+> “Dr. Vale requires evacuation,” NORA said. “The lower corridors are flooding.”
 
-- [PathD](./scene4D.md)
+> “Why didn’t you call for help sooner?” Alex asked.
 
-- [PathE](./scene4E.md)
+>“I have been trying.”
+
+Morgan studied the controls. One switch closed the flood barriers. Another activated a backup transmitter.
+
+- [CLOSE BARRIERS.](./scene4C.md)
+
+- [TRANSMITTER.](./scene4D.md)

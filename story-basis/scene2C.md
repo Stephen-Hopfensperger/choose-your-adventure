@@ -1,7 +1,11 @@
-﻿# scene2C
+﻿# The Antenna
 
-Text
+The antenna had snapped. A loose cable swung in the current. Alex’s submarine radio still reached Captain Reyes, but the station’s transmitter appeared damaged. Morgan pointed to a service airlock beneath the mast.
 
-- [PathF](./scene3F.md)
+> “We could try fixing it from inside.”
 
-- [PathA](./scene3A.md)
+Alex looked back toward the docking bay. Someone might be waiting there.
+
+- [COMMUNICATIONS ROOM.](./scene3E.md)
+
+- [DOCKING BAY.](./scene3A.md)

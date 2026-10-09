@@ -1,7 +1,12 @@
-﻿# scene2B
+﻿# The Broken Wheel
 
-Text
+Alex secured the submarine at the service dock. They swam to the maintenance hatch and entered through its airlock. Something scraped around the corner, a small robot dragging a bent wheel behind it.
 
--  [PathD](./scene3D.md)
+> “Assistance requested, preferably before I become part of the floor.”
 
--  [PathE](./scene3E.md)
+Nearby, blue light spilled from an open laboratory.
+
+-  [REPAIR.](./scene3C.md)
+
+-  [EXPLORE.](./scene3D.md)
+
