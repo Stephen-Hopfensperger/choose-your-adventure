@@ -1,10 +1,12 @@
 ﻿# Two Repairs
 
 A rusty wheel controlled the drainage bypass. A staircase led to the generator room.
-"The bypass clears our route out," Pip explained. "The generator powers the pumps and cooling system."
-Another wave washed across the floor.
-Morgan looked upstairs.
-"Which one are we doing?"
+> "The bypass clears our route out," Pip explained. "The generator powers the pumps and cooling system."
 
-- [Open the bypass](./scene6A.md)
-- [Repair the generator](./scene6B.md)
+Another wave washed across the floor. Morgan looked upstairs.
+
+>"Which one are we doing?"
+
+- [BYPASS.](./scene6A.md)
+
+- [REPAIR.](./scene6B.md)

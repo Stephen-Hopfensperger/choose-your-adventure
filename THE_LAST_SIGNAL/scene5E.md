@@ -1,11 +1,13 @@
 ﻿# A Hand Through the Hatch
 
-Alex crawled through the service passage and opened a hatch above Dr. Vale's room.
-She climbed onto a chair and reached up.
-Alex caught her wrist. Morgan pulled from behind.
-Once safe, Dr. Vale sat against the wall.
-"Thank you," she whispered.
+Alex crawled through the service passage and opened a hatch above Dr. Vale's room. She climbed onto a chair and reached up.
+
+Alex caught her wrist. Morgan pulled from behind. Once safe, Dr. Vale sat against the wall.
+
+> "Thank you," she whispered.
+
 Below them, water continued rising.
 
-- [Head toward the escape platform](./scene6C.md)
-- [Clear the docking route](./scene6A.md)
+- [ESCAPE.](./scene6C.md)
+
+- [CLEAR.](./scene6A.md)

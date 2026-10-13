@@ -1,4 +1,4 @@
-﻿# Wet Footprints
+# Wet Footprints
 
 The docking chamber drained, and Alex stepped into the footprints crossed the floor toward a glass door. Behind it, a woman raised her hand. A speaker crackled overhead. 
 
@@ -11,4 +11,5 @@ Morgan glanced between the woman and the speaker.
  ## What do you do? 
  
  - [HELP.](./scene3A.md) 
+
  - [FOLLOW.](./scene3B.md)
