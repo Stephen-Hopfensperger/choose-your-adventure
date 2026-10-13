@@ -1,8 +1,7 @@
-﻿# _start-here
-
+﻿
 ## THE LAST SIGNAL
 
-### The Message
+# The Message
 
 The radio had been silent all evening. Then a voice broke through the static.
 
