@@ -1,7 +1,12 @@
-﻿# scene6B
+﻿# One More Spark
 
-Text
+Morgan read the maintenance instructions while Alex inspected the generator.
+Pip arrived with Dr. Vale, following NORA's directions.
+Dr. Vale pointed to a loose connection. Alex secured it.
+The machinery shuddered, then roared to life.
+Lights brightened. Pumps started below them.
+For the first time, Dr. Vale smiled.
+"We might have a chance."
 
-- [PathC](./scene7C.md)
-
-- [PathD](./scene7D.md)
+- [Cool the plants](./scene7B.md)
+- [Prepare rescue and decide what to do with the gardens](./scene7C.md)

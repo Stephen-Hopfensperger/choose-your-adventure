@@ -1,7 +1,14 @@
-﻿# scene4A
+﻿# The Flood
 
-Text
+NORA guided Alex to Dr. Vale. Together, they headed toward the docking bay. They had almost reached it when a ceiling panel fell, water burst through the opening.
+Morgan pulled Dr. Vale backward.
 
-- [PathA](./scene5A.md)
+> “Upstairs!” NORA called. “There is an escape capsule.”
 
-- [PathB](./scene5B.md)
+Dr. Vale pointed toward another door.
+
+> “The drainage pumps could clear our way back.”
+
+- [REPAIR.](./scene5A.md)
+
+- [ESCAPE.](./scene5B.md)

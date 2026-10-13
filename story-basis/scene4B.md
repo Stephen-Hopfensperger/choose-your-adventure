@@ -1,7 +1,12 @@
-﻿# scene4B
+﻿# The warning.
 
-Text
+Dr. Vale’s final report filled the archive screen. The plants produced oxygen, but warm water caused uncontrolled growth. One sentence was underlined:
+> “Cold water slows growth. Darkness does not.”
 
-- [PathA](./scene5A.md)
+Alex copied the research onto their suit’s storage. Morgan watched the wall tremble.
 
-- [PathC](./scene5C.md)
+> “Now we know,” they said. “Let’s do something with it.”
+
+- [COOL.](./scene5C.md)
+
+- [CONTACT.](./scene5D.md)
