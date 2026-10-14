@@ -11,7 +11,7 @@ Glowing plants surrounded a cracked dome, their roots wrapped around its support
 
 -  [DOCKING BAY.](./scene2A.md)
 
--  [MAINTINENCE HATCH.](./scene2B.md)
+-  [MAINTENENCE HATCH.](./scene2B.md)
 
 -  [COMMUNICATIONS MAST.](./scene2C.md)
 

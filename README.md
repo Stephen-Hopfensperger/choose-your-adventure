@@ -1,106 +1,47 @@
 
-# ✨ A Markdown-Based Adventure Framework
+# The Last Signal
 
-Welcome! This repo hosts interactive, emoji-powered **"choose your own adventure"** stories written entirely in Markdown. Each story is structured with branching scenes, embedded choices, and a clear path system — designed for maximum flexibility and fun.
+## About the Story
 
-If you'd like to create your own interactive story using this format, read on!
+The Last Signal is a choose-your-own-adventure story where you explore an abandoned facility after receiving a mysterious signal.
 
-This framework allows you to create interactive adventures using Markdown files. Each scene is a separate Markdown file, and you can link them together to create a branching narrative.
+Throughout the story, you will make decisions that change what happens next. Some choices may lead you to safety, while others may lead to danger.
 
----
+Your decisions determine how the story ends.
 
-## 🌟 Example Story
+## How to Play
 
-[Space Battles](https://github.com/fvtc/choose-your-adventure/blob/master/space-battles/_start-here.md) — A Star Wars-inspired branching adventure.
+1. Click the link below to begin the adventure.
+2. Read the story and choose what you want to do.
+3. Click the link for your chosen action.
+4. Continue making choices until you reach an ending.
+5. Replay the story to discover different outcomes.
 
-## 📁 Folder Structure
+## Start the Adventure
 
-Each story should live in its own folder.
+**[Click Here to Start the Story](_start-here.md)**
 
-Each scene is a Markdown file. You can name the files whatever you like, but they should follow a consistent naming convention (e.g., `scene1.md`, `scene2.md`, etc.). However, the first scene should always be named `_start-here.md` to indicate the starting point of the adventure. The underscore prefix helps to keep it at the top of the folder listing.
+## Endings
 
-For an example, the folder structure for a story might look like this:
+There are four possible endings to discover. Each ending depends on the decisions you make throughout the adventure.
 
-```
-space-battles/
-├── _start-here.md
-├── scene1.md
-├── scene2.md
-├── scene3.md
-├── scene4.md
-├── scene5.md
-├── scene6A.md
-├── scene6B.md
-├── scene6C.md
-├── scene7A.md
-├── scene7B.md
-├── scene8A.md
-├── scene9A.md
-├── scene10A.md
-├── scene10B.md
-```
+Try different paths to experience all four endings!
 
-## 📖 Writing Scenes
+## Project Information
 
-Each scene is a Markdown file that contains the text of the scene, along with choices that link to other scenes. Here’s a basic structure for a scene:
+This project was created using Markdown and GitHub.
 
-```markdown
-# Scene Title
+Each scene is stored in a separate Markdown file, and links connect the scenes to create an interactive story.
 
-A short paragraph or two describing the scene. This is where you set the stage for the choices that follow.
+## Project Structure
 
-> Optional: Include a blockquote for a character's dialogue or internal thoughts.
+- `_start-here.md` - Starting point of the adventure.
+- `scene1.md` - First scene of the story.
+- `scene2A.md`, `scene2B.md` - Different story branches.
+- Additional scene files - Continue the adventure based on your choices.
+- Ending files - Different possible conclusions.
+- `README.md` - Project description and instructions.
 
-Then present the choices using bullet points. Each choice should link to another scene file:
+## How to Restart
 
-- 🛸 [Go to the spaceport](./scene2A.md)
-- 🤖 [Talk to the droid](./scene2B.md)
-- 🚀 [Board the starship](./scene2C.md)
-```
-
-✅ Use emoji to add tone and make choices visually distinct.
-
-✅ Keep scene names short and match the filenames (scene1.md, scene2A.md, etc.).
-
-✅ Use relative links (./scene2A.md, not absolute URLs).
-
-
-## 🪐 Design Tips
-
-- Keep choices to 2–3 per scene to avoid overwhelming readers.
-
-- Looping and dead ends are welcome — failure is part of the fun!
-
-- Feel free to mimic familiar storylines or create something totally new.
-
-- Keep your tone consistent (humorous, serious, classic sci-fi, etc.).
-
-
-## 💡 Getting Started
-
-Want to start a new story? Fork and clone this repo, then:
-
-1. Create a new folder for your story.
-2. Add an `_start-here.md` file as the entry point.
-3. Write your scenes in Markdown files, linking them together with choices.
-4. Use relative links to connect scenes (e.g., `./scene2A.md`).
-5. Test your links to ensure they work correctly.
-
-## 🧑‍🚀 Contributing
-
-Pull requests are welcome! If submitting a new story:
-
-Place it in a new folder under /your-story-name/.
-
-Keep your Markdown clean, readable, and consistent.
-
-Make sure all links resolve correctly.
-
-## 🔌 Plug-in Recommendation
-
-For a better writing experience, consider using Matt Bierner's [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) extension in VS Code. It provides a GitHub-like preview of your Markdown files, making it easier to visualize your story as you write.
-
-Once installed, you can open the Markdown preview with the shortcut `Ctrl+Shift+V` (or `Cmd+Shift+V` on macOS) to see how your story will look with GitHub's styling.
-
-## 📬 Questions?
-Open an issue or start a discussion — we’re always happy to help storytellers bring their universe to life!
+To restart the adventure, return to the [beginning](_start-here.md) and make different choices.
