@@ -10,6 +10,6 @@ NORA interrupted.
 
 Outside the window, a blue root tightened around a support beam.
 
-- [BEACON.](./scene5B.md)
+- [BEACON.](./scene5b.md)
 
-- [REPAIR.](./scene5A.md)
+- [REPAIR.](./scene5a.md)

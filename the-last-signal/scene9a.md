@@ -12,4 +12,4 @@ Dr. Vale showed the team her research. Pip inspected the repairs while NORA moni
 
 For the first time in three years, Pelican was full of voices.
 
-- [CONTINUE.](./scene10A.md)
+- [CONTINUE.](./scene10a.md)

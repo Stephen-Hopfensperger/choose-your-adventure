@@ -10,6 +10,6 @@ Morgan glanced between the woman and the speaker.
 
  ## What do you do? 
  
- - [HELP.](./scene3A.md) 
+ - [HELP.](./scene3a.md)
 
- - [FOLLOW.](./scene3B.md)
+ - [FOLLOW.](./scene3b.md)

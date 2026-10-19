@@ -9,6 +9,6 @@ An emergency sleep chamber stood behind her. NORA had kept her alive until the d
 
 > “The plants supply our oxygen, But their roots are tearing the station apart.”
 
-- [ESCAPE.](./scene4A.md)
+- [ESCAPE.](./scene4a.md)
 
-- [LEARN.](./scene4B.md)
+- [LEARN.](./scene4b.md)

@@ -8,6 +8,6 @@ A small robot dragged a bent wheel behind it.
 
 Nearby, blue light spilled from an open laboratory.
 
--  [REPAIR.](./scene3C.md)
+-  [REPAIR.](./scene3c.md)
 
--  [EXPLORE.](./scene3D.md)
+-  [EXPLORE.](./scene3d.md)

@@ -6,6 +6,6 @@ The docking bay was reachable again. Captain Reyes could recover them there.
 
 > "We have a way out," Alex said.
 
-- [ESCAPE.](./scene7A.md)
+- [ESCAPE.](./scene7a.md)
 
-- [REPAIR.](./scene6B.md)
+- [REPAIR.](./scene6b.md)

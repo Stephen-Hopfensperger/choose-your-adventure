@@ -8,5 +8,5 @@ Pip tested the capsule's launch controls.
 
 Morgan checked Dr. Vale's harness. Alex looked toward the garden release panel. There might still be time.
 
-- [LEAVE.](./scene7E.md)
-- [PREPARE RESCUE.](./scene7C.md)
+- [LEAVE.](./scene7e.md)
+- [PREPARE RESCUE.](./scene7c.md)

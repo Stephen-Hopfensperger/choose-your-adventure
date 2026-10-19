@@ -9,6 +9,6 @@ Dr. Vale pointed toward another door.
 
 > “The drainage pumps could clear our way back.”
 
-- [REPAIR.](./scene5A.md)
+- [REPAIR.](./scene5a.md)
 
-- [ESCAPE.](./scene5B.md)
+- [ESCAPE.](./scene5b.md)

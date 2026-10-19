@@ -6,6 +6,6 @@ The antenna had snapped. A loose cable swung in the current. Alex’s submarine 
 
 Alex looked back toward the docking bay. Someone might be waiting there.
 
-- [COMMUNICATIONS.](./scene3E.md)
+- [COMMUNICATIONS.](./scene3e.md)
 
-- [DOCKING BAY.](./scene3A.md)
+- [DOCKING BAY.](./scene3a.md)

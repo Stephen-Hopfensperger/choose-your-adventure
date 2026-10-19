@@ -7,6 +7,6 @@ Another wave washed across the floor. Morgan looked upstairs.
 
 >"Which one are we doing?"
 
-- [BYPASS.](./scene6A.md)
+- [BYPASS.](./scene6a.md)
 
-- [REPAIR.](./scene6B.md)
+- [REPAIR.](./scene6b.md)

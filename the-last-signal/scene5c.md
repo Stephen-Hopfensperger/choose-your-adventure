@@ -8,6 +8,6 @@ Then a battery warning appeared.
 
 Morgan checked the map. The generator room was close, but the route was filling with water.
 
-- [REPAIR.](./scene6B.md)
+- [REPAIR.](./scene6b.md)
 
-- [LEAVE.](./scene6C.md)
+- [LEAVE.](./scene6c.md)

@@ -8,6 +8,6 @@ Alex remained beside the release panel. A tremor traveled through the floor.
 
 Alex could leave now or detach the gardens, stopping their roots from damaging the station.
 
-- [BOARD.](./scene7E.md)
+- [BOARD.](./scene7e.md)
 
-- [RELEASE.](./scene8B.md)
+- [RELEASE.](./scene8b.md)

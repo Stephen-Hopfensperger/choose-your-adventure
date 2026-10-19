@@ -8,6 +8,6 @@ Morgan rested a hand on the release switch's safety cover.
 
 > "Then we would have to leave."
 
-- [COOL.](./scene5C.md)
+- [COOL.](./scene5c.md)
 
-- [SEARCH.](./scene5E.md)
+- [SEARCH.](./scene5e.md)

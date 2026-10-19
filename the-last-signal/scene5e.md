@@ -8,6 +8,6 @@ Alex caught her wrist. Morgan pulled from behind. Once safe, Dr. Vale sat agains
 
 Below them, water continued rising.
 
-- [ESCAPE.](./scene6C.md)
+- [ESCAPE.](./scene6c.md)
 
-- [CLEAR.](./scene6A.md)
+- [CLEAR.](./scene6a.md)

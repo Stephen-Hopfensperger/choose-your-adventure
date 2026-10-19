@@ -10,5 +10,5 @@ The alarms stopped.
 
 Everyone hurried toward the rescue pod. Alex paused beside the archive terminal.
 
-- [RECOVER ARCHIVE.](./scene10B.md)
-- [LEAVE.](./scene7E.md)
+- [RECOVER ARCHIVE.](./scene10b.md)
+- [LEAVE.](./scene7e.md)

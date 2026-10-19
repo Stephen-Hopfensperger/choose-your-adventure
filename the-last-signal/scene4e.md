@@ -7,6 +7,6 @@ Morgan pulled one root from a grate. Two more slid into its place.
 
 > "I vote for something faster than this."
 
-- [INSPECT.](./scene5A.md)
+- [INSPECT.](./scene5a.md)
 
-- [SEARCH.](./scene5B.md)
+- [SEARCH.](./scene5b.md)

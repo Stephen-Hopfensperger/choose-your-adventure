@@ -8,6 +8,6 @@ For the first time, Dr. Vale smiled.
 
 > "We might have a chance."
 
-- [COOL.](./scene7B.md)
+- [COOL.](./scene7b.md)
 
-- [PREPARE RESCUE.](./scene7C.md)
+- [PREPARE RESCUE.](./scene7c.md)

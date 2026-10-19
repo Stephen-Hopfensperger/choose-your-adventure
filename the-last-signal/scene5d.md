@@ -8,6 +8,6 @@ Alex described the cooling system and damaged generator. Reyes could send repair
 
 > "We can get the power back."
 
-- [RESTORE POWER.](./scene6B.md)
+- [RESTORE POWER.](./scene6b.md)
 
-- [REQUEST EVACUATION.](./scene6C.md)
+- [REQUEST EVACUATION.](./scene6c.md)

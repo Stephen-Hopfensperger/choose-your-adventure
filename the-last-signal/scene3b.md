@@ -10,6 +10,6 @@ Red warnings covered the control room screens.
 
 Morgan studied the controls. One switch closed the flood barriers. Another activated a backup transmitter.
 
-- [CLOSE BARRIERS.](./scene4C.md)
+- [CLOSE BARRIERS.](./scene4c.md)
 
-- [TRANSMITTER.](./scene4D.md)
+- [TRANSMITTER.](./scene4d.md)

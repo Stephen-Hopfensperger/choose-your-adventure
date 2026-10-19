@@ -7,6 +7,6 @@ Alex copied the research onto their suit’s storage. Morgan watched the wall tr
 
 > “Now we know,” they said. “Let’s do something with it.”
 
-- [COOL.](./scene5C.md)
+- [COOL.](./scene5c.md)
 
-- [CONTACT.](./scene5D.md)
+- [CONTACT.](./scene5d.md)

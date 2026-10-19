@@ -10,6 +10,6 @@ Captain Reyes asked whether they wanted to leave or wait for her repair team. Mo
 
 > "For once, waiting might help."
 
-- [STABILIZE.](./scene8A.md)
+- [STABILIZE.](./scene8a.md)
 
-- [RELEASE.](./scene8B.md)
+- [RELEASE.](./scene8b.md)

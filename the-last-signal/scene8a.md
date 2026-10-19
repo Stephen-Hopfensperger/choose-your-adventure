@@ -8,5 +8,5 @@ A light appeared outside. Then another.
 
 Dr. Vale pressed her hand against the glass, smiling at the divers.
 
-- [WELCOME.](./scene9A.md)
-- [RELEASE.](./scene8B.md)
+- [WELCOME.](./scene9a.md)
+- [RELEASE.](./scene8b.md)

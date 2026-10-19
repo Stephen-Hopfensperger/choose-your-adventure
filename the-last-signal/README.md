@@ -37,7 +37,7 @@ Each scene is stored in a separate Markdown file, and links connect the scenes t
 
 - `_start-here.md` - Starting point of the adventure.
 - `scene1.md` - First scene of the story.
-- `scene2A.md`, `scene2B.md` - Different story branches.
+- `scene2a.md`, `scene2b.md` - Different story branches.
 - Additional scene files - Continue the adventure based on your choices.
 - Ending files - Different possible conclusions.
 - `README.md` - Project description and instructions.

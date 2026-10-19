@@ -9,10 +9,10 @@ Glowing plants surrounded a cracked dome, their roots wrapped around its support
 
 ## What do you do? 
 
--  [DOCKING BAY.](./scene2A.md)
+-  [DOCKING BAY.](./scene2a.md)
 
--  [MAINTENENCE HATCH.](./scene2B.md)
+-  [MAINTENENCE HATCH.](./scene2b.md)
 
--  [COMMUNICATIONS MAST.](./scene2C.md)
+-  [COMMUNICATIONS MAST.](./scene2c.md)
 
 

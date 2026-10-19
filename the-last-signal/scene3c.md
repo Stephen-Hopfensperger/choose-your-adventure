@@ -6,6 +6,6 @@ Morgan held the robot steady while Alex straightened its wheel. The name PIP was
 
 It projected a map onto the wall. A pump room flashed red. A research archive stood farther down the corridor.
 
-- [FOLLOW IT.](./scene4E.md)
+- [FOLLOW IT.](./scene4e.md)
 
-- [ARCHIVE.](./scene4B.md)
+- [ARCHIVE.](./scene4b.md)

@@ -10,6 +10,6 @@ Morgan looked toward the waiting exit.
 
 > "We should decide quickly."
 
-- [ESCAPE.](./scene7E.md)
+- [ESCAPE.](./scene7e.md)
 
-- [DETACH.](./scene8B.md)
+- [DETACH.](./scene8b.md)

@@ -4,6 +4,6 @@ NORA guided Dr. Vale to join Alex and Morgan at the stairs. Pip followed through
 
 Morgan paused to catch their breath. Alex noticed a long crack across its window.
 
-- [CLIMB.](./scene6C.md)
+- [CLIMB.](./scene6c.md)
 
-- [SHELTER.](./scene7D.md)
+- [SHELTER.](./scene7d.md)
